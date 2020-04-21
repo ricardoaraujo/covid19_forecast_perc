@@ -6,3 +6,6 @@ This is a Python + Jupyter NB port of the C code provided by Matjaž Perc, Nina 
 - Python 3
 - Pandas
 - Matplotlib
+
+## Usage:
+Input is cumulative number of cases as a text file, one day per line, and date of the first line. There should not be date gaps in the input. `Data` folder contains example inputs from the original paper submission.
